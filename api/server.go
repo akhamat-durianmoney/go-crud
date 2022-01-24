@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
+	"github.com/akhamat-durianmoney/go-crud/api/controllers"
+	"github.com/akhamat-durianmoney/go-crud/api/seed"
 	"github.com/joho/godotenv"
-	"github.com/victorsteven/fullstack/api/controllers"
-	"github.com/victorsteven/fullstack/api/seed"
 )
 
 var server = controllers.Server{}

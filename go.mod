@@ -1,4 +1,4 @@
-module github.com/victorsteven/fullstack
+module github.com/akhamat-durianmoney/go-crud
 
 go 1.13
 

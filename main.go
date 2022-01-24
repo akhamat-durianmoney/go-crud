@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/victorsteven/fullstack/api"
+	"github.com/akhamat-durianmoney/go-crud/api"
 )
 
 func main() {
