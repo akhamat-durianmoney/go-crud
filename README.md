@@ -7,11 +7,11 @@ all route
 localhost:8080/login POST
 
 //Users routes
-localhost:8080/users  GET => to get all user
-localhost:8080/users/1 GET => to get specific user
-localhost:8080/users POST => to create new user
-localhost:8080/users/1 PUT => to edit spesific user
-localhost:8080/users/1 DELETE => to delete spesific user
+- localhost:8080/users  GET => to get all user
+- localhost:8080/users/1 GET => to get specific user
+- localhost:8080/users POST => to create new user
+- localhost:8080/users/1 PUT => to edit spesific user
+- localhost:8080/users/1 DELETE => to delete spesific user
 
 payload for login
 {
