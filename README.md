@@ -13,15 +13,19 @@ localhost:8080/login POST
 - localhost:8080/users/1 PUT => to edit spesific user
 - localhost:8080/users/1 DELETE => to delete spesific user
 
+```
 payload for login
 {
     "email": "admin@admin.com",
     "password": "password"
 }
+```
 
+```
 payload for create and update
 {
     "nickname": "admina",
     "email": "admin1@admin.com",
     "password": "admina"
 }
+```
