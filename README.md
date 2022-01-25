@@ -29,3 +29,5 @@ payload for create and update
     "password": "admina"
 }
 ```
+
+for users endpoind using JWT auth
